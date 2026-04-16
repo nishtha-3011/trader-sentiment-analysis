@@ -1,9 +1,3 @@
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-
-
-
 # 📊 Trader Performance vs Market Sentiment
 ### Primetrade.ai — Data Science Intern Assignment
 
