@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.zip
+fear_greed_index.csv
+historical_data.csv
